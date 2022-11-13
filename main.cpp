@@ -58,5 +58,5 @@ cout << endl;
     cout << " Output : Number" << prime << "is prime" << endl;
   }
  return 0; 
-  }// write your code here
+  }
 
